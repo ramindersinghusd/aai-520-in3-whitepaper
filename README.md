@@ -22,14 +22,14 @@
 |  10 | Scimago Journal & Country Rank (SJR)  | Check journal quartiles (Q1-Q4) and rankings.   | https://lnkd.in/d-wk8avK   |
 
 ### Literature Review & Research Discovery
- - AnswerThis – AI tool for extracting insights from research papers and answering questions from PDFs
-- ResearchRabbit – Visualizes paper connections and tracks research trends.
-- Elicit – AI-powered assistant for finding relevant papers and summarizing key insights.
-- Scite – Analyzes citation contexts to determine whether papers support or contradict claims.
-- Litmaps – Tracks idea evolution through interactive citation networks.
-- Connected Papers – Generates a graph of related research papers to explore knowledge gaps.
-- SciSpace – AI assistant for summarizing and explaining research papers.
-- Bohrium - To ask scientific questions and get high-quality, targeted research papers instantly.
+- AnswerThis [https://answerthis.io/](https://answerthis.io/) – AI tool for extracting insights from research papers and answering questions from PDFs
+- ResearchRabbit [https://www.researchrabbit.ai/](https://www.researchrabbit.ai/) – Visualizes paper connections and tracks research trends.
+- Elicit [https://elicit.com/](https://elicit.com/) – AI-powered assistant for finding relevant papers and summarizing key insights.
+- Scite [https://scite.ai/](https://scite.ai/) – Analyzes citation contexts to determine whether papers support or contradict claims.
+- Litmaps [https://www.litmaps.com/](https://www.litmaps.com/) – Tracks idea evolution through interactive citation networks.
+- Connected Papers [https://www.connectedpapers.com/](https://www.connectedpapers.com/) – Generates a graph of related research papers to explore knowledge gaps.
+- SciSpace [https://scispace.com/](https://scispace.com/) – AI assistant for summarizing and explaining research papers.
+- Bohrium [https://www.bohrium.com/](https://www.bohrium.com/)- To ask scientific questions and get high-quality, targeted research papers instantly.
 
 ### Grammar & Editing
 - Paperpal – AI-powered academic writing tool for grammar, clarity, and structure improvements.
