@@ -1,6 +1,6 @@
 # aai-520-in3-whitepaper
 
-### Accounts to be created
+### Accounts to be created (preferrably personal account)
 - Overleaf.com
 - Orcid.org
 
